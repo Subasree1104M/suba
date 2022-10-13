@@ -1,0 +1,2 @@
+#include<stdio.h>
+HAL_UART_Transmit(&huart4,sizeof(data),2,100);
