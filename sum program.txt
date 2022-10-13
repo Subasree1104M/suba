@@ -8,3 +8,4 @@ z=x+y;
 printf("%d",&z);
 z=x*y;
 printf("%d",z);
+//division
